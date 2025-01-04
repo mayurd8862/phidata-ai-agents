@@ -1,0 +1,5 @@
+phidata
+yfinance
+groq
+firecrawl-py
+google-generativeai
